@@ -1,183 +1,238 @@
-# 👋 Hey, I'm Yash Malviya!
+<div align="center">
 
-### 🧑‍💻 Data Analytics & Big Data Enthusiast | Python Developer | Aspiring Data Engineer
+# 🌸 Hey there, I'm Yash! 👋
 
-🎓 Currently pursuing a **Diploma in Big Data Analytics (BDA) at C-DAC Bengaluru**
-📊 Passionate about **Data Analytics, Big Data, Data Engineering & Open Source**
-🚀 Learning by building real-world projects and solving data-driven problems.
+### 🧑‍💻 Big Data Analytics Student • Python Developer • Future Data Engineer
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+corner+of+GitHub+%F0%9F%8C%B8;Turning+data+into+insights+%F0%9F%93%8A;Building+with+Python+%F0%9F%90%8D;Learning+Big+Data+%E2%9A%A1;Future+Data+Engineer+%F0%9F%9A%80" alt="Typing SVG"/>
 
-## 🚀 About Me
+<br>
 
-```python
-class YashMalviya:
+<a href="https://github.com/hellotechworkcontact-ai">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=hellotechworkcontact-ai&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
-    role = "Big Data Analytics Student"
-
-    education = "Diploma in Big Data Analytics @ C-DAC Bengaluru"
-
-    interests = [
-        "Data Analytics",
-        "Big Data",
-        "Data Engineering",
-        "Python Development",
-        "Open Source"
-    ]
-
-    currently_learning = [
-        "Advanced PySpark",
-        "Hadoop Ecosystem",
-        "Data Engineering",
-        "Big Data Technologies"
-    ]
-
-    goal = "Build scalable and impactful data solutions 🚀"
-```
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌷 A Little About Me
 
-### 👨‍💻 Programming & Data
+Hi! I'm **Yash**, a curious developer who loves exploring the world of **data, code, and Big Data**. 🐍📊
 
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+🎓 Currently pursuing **Diploma in Big Data Analytics (BDA)** at **C-DAC Bengaluru**
+
+💻 I enjoy building projects with **Python, PySpark & Hadoop**
+
+📊 I love transforming **raw data → useful insights**
+
+🌱 Currently learning **Data Engineering & Big Data technologies**
+
+☕ Powered by **coffee, curiosity & lots of debugging**
+
+✨ My goal is simple: **keep learning, keep building, keep improving.**
+
+---
+
+## 🧸 My Tech Universe
+
+### 🐍 Languages & Data
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas" />
+
 </p>
 
 ### ⚡ Big Data
 
-<p align="left">
-<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=hadoop,spark" />
+
 </p>
 
-### 🐧 Tools & Environment
+### 🛠️ Tools & Environment
 
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode" />
+
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-🔹 Advanced **PySpark**
-🔹 **Hadoop Ecosystem**
-🔹 Distributed Data Processing
-🔹 Data Engineering Concepts
-🔹 Big Data Technologies
-🔹 Building Scalable Data Pipelines
-
----
-
-## 💼 What I'm Working On
-
-📊 **Data Analytics Projects**
-⚡ **Big Data & PySpark Projects**
-🐍 **Python Data Applications**
-🔧 **Data Engineering Workflows**
-🌐 **Open Source Projects**
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm interested in collaborating on:
-
-* 📊 Data Analytics projects
-* ⚡ Big Data projects
-* 🐍 Python projects
-* 🔥 PySpark projects
-* 🛠️ Data Engineering projects
-* 🌐 Open Source projects
-
-If you're working on something interesting, feel free to connect!
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=hellotechworkcontact-ai&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hellotechworkcontact-ai&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=hellotechworkcontact-ai&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/hellotechworkcontact-ai/hellotechworkcontact-ai/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-## 📈 My Developer Journey
-
 ```text
-Python              ███████████████████░   90%
-Data Analytics      █████████████████░░░   85%
-PySpark             ███████████████░░░░░   75%
-Hadoop              ██████████████░░░░░░   70%
-Git & GitHub        █████████████████░░░   85%
-Linux / Ubuntu      ████████████████░░░░   80%
-Data Engineering    █████████████░░░░░░░   65%
+╭──────────────────────────────────────────────╮
+│                                              │
+│   🧠 Advanced PySpark                        │
+│   ⚡ Distributed Data Processing             │
+│   🐘 Hadoop Ecosystem                        │
+│   🔧 Data Engineering                        │
+│   📊 Advanced Data Analytics                 │
+│   🚀 Scalable Data Pipelines                 │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
 
 ---
 
-## 🎯 2026 Goals
+## 💻 Things I Love Building
 
-* 🚀 Build production-ready Data Engineering projects
-* ⚡ Master Apache Spark & PySpark
-* 🐘 Strengthen Hadoop ecosystem knowledge
-* 📊 Build advanced Data Analytics projects
-* 🌐 Contribute to Open Source
-* 💼 Prepare for a career in Data Engineering / Big Data
+<table align="center">
+<tr>
+<td align="center" width="200">
+
+### 📊
+
+**Data Analytics**
+
+Turning messy data into meaningful insights.
+
+</td>
+
+<td align="center" width="200">
+
+### ⚡
+
+**Big Data**
+
+Working with large-scale data using Spark & Hadoop.
+
+</td>
+
+<td align="center" width="200">
+
+### 🐍
+
+**Python**
+
+Writing useful tools, scripts & data applications.
+
+</td>
+
+</tr>
+
+<tr>
+<td align="center" width="200">
+
+### 🔧
+
+**Data Engineering**
+
+Learning how to build reliable data pipelines.
+
+</td>
+
+<td align="center" width="200">
+
+### 🌐
+
+**Open Source**
+
+Learning, contributing & building with the community.
+
+</td>
+
+<td align="center" width="200">
+
+### 🚀
+
+**Projects**
+
+Learning by actually building things.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 💡 Fun Fact
+## 🎯 My 2026 Mission
 
-> ☕ I enjoy turning **raw data into meaningful insights** and learning new technologies by building real projects.
+> 🌸 **Learn → Build → Break → Fix → Repeat**
+
+* 🐍 Become stronger with Python
+* ⚡ Master PySpark
+* 🐘 Deepen Hadoop knowledge
+* 🔧 Build real-world Data Engineering projects
+* 📊 Create interesting Data Analytics projects
+* 🌐 Start contributing to Open Source
+* 💼 Prepare for a career in Data Engineering
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Playground
 
-<p align="left">
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=hellotechworkcontact-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hellotechworkcontact-ai&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=hellotechworkcontact-ai&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hellotechworkcontact-ai/hellotechworkcontact-ai/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 🤝 Let's Build Something Together
+
+I'm always happy to collaborate on projects involving:
+
+`🐍 Python` `📊 Data Analytics` `⚡ PySpark` `🐘 Hadoop` `🔧 Data Engineering` `🌐 Open Source`
+
+If you're building something interesting, let's connect and learn together! 🌱
+
+---
+
+## 💌 Find Me Here
+
+<div align="center">
+
 <a href="https://github.com/hellotechworkcontact-ai">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-### ⭐ If you find my projects interesting, consider giving them a star!
+<div align="center">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=hellotechworkcontact-ai&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
+### 🌸 Thanks for stopping by! 🌸
 
----
+**"Every dataset has a story. I'm here to discover it."** 📊✨
 
-<p align="center">
-<strong>💻 Code • 📊 Analyze • ⚡ Scale • 🚀 Build</strong>
-</p>
+<br>
 
-<!-- Proudly created and customized for Yash Malviya -->
+🐍 **Code a little.**
+📊 **Analyze a little.**
+⚡ **Learn a lot.**
+🚀 **Build something awesome.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
