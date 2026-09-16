@@ -1,188 +1,210 @@
 <div align="center">
 
-# 🌸 Hey there, I'm Yash! 👋
+# 🎀 hiiii, I'm Yash! ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
 
-### 🧑‍💻 Big Data Analytics Student • Python Developer • Future Data Engineer
+### 🐰 aspiring data engineer • 🐍 python lover • 📊 data enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B8AFB&center=true&vCenter=true&width=700&lines=Welcome+to+my+little+corner+of+GitHub+%F0%9F%8C%B8;Turning+data+into+insights+%F0%9F%93%8A;Building+with+Python+%F0%9F%90%8D;Exploring+the+world+of+Big+Data+%E2%9A%A1;Future+Data+Engineer+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=21&pause=1000&color=F4A6C1&center=true&vCenter=true&width=700&lines=welcome+to+my+little+github+garden+%F0%9F%8C%B7;turning+data+into+pretty+insights+%F0%9F%93%8A;learning+python+one+bug+at+a+time+%F0%9F%90%8D;playing+with+big+data+%E2%9C%A8;future+data+engineer+%F0%9F%8C%B8" alt="Typing SVG"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/🎓_C--DAC-Bengaluru-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📊_Big_Data-Analytics-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🐍_Python-Lover-3776AB?style=for-the-badge"/>
+🌷 ───────────────────────────────────── 🌷
+
+### 🎓 currently studying
+
+**Diploma in Big Data Analytics (BDA)**
+at **C-DAC Bengaluru** ♡
+
+🌷 ───────────────────────────────────── 🌷
+
+<br>
+
+<img src="https://img.shields.io/badge/🐍_Python-ffb6d9?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/📊_Data-Analytics-f9a8d4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_Big-Data-c4b5fd?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌱_Learning-Data_Engineering-a7f3d0?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=hellotechworkcontact-ai&style=for-the-badge&color=8B5CF6&label=✨+PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=hellotechworkcontact-ai&style=for-the-badge&color=f9a8d4&label=🎀+POOKIE+VISITORS"/>
 
 </div>
 
 ---
 
-## 🌷 Hello, I'm Yash!
+# 🌸 about this pookie
 
-> 💜 **A curious mind exploring Data, Code & Big Data — one project at a time.**
+hiii! I'm **Yash** 👋🏻
 
-🎓 I'm currently pursuing a **Diploma in Big Data Analytics (BDA)** at **C-DAC Bengaluru**.
+I'm a curious little developer who enjoys turning **raw data into useful things**. 📊✨
 
-🐍 I enjoy working with **Python and Data Analytics**.
+🎓 studying **Big Data Analytics at C-DAC Bengaluru**
 
-⚡ Currently exploring the exciting world of **Big Data, PySpark & Hadoop**.
+🐍 spending lots of time with **Python**
 
-🔧 My goal is to learn **Data Engineering** by building real-world projects.
+📊 exploring **Data Analytics**
 
-☕ My development environment is powered by **coffee + curiosity + debugging**.
+⚡ learning **PySpark & Big Data**
 
-🌱 **Learn → Build → Break → Fix → Repeat** ✨
+🐘 getting to know the **Hadoop ecosystem**
+
+🔧 slowly becoming a **Data Engineer**
+
+☕ running on **coffee + curiosity + Stack Overflow**
+
+💻 happiest when I'm **building something instead of just watching tutorials**
+
+> 🌷 *currently in my "learn everything and break everything" era* ♡
 
 ---
 
-# 🧸 My Tech Friends
+# 🧸 my tiny tech shelf
 
-## 🐍 Programming & Data
+<div align="center">
 
-<p align="center">
+### 🐍 programming babies
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-</p>
+<br><br>
 
-## ⚡ Big Data & Distributed Computing
+### 🐘 big data besties
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
 
-</p>
+<br><br>
 
-### 🐘 Hadoop
-
-**Distributed storage & processing**
-
-### ⚡ Apache Spark
-
-**Fast, distributed data processing**
-
-### 🔥 PySpark
-
-**Python + Apache Spark**
-
----
-
-## 🛠️ Tools I Use
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode"/>
-
-</p>
-
-<p align="center">
+### 🐧 my little computer friends
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
-</p>
+</div>
 
 ---
 
-# 🌱 Currently Growing...
+# 🍓 my current obsession
 
 <div align="center">
 
-| 🌱 Learning              | 💫 Status     |
-| ------------------------ | ------------- |
-| 🐍 Advanced Python       | 🔥 Improving  |
-| ⚡ PySpark                | 🚀 Learning   |
-| 🐘 Hadoop                | 🌱 Exploring  |
-| 📊 Data Analytics        | 💪 Practicing |
-| 🔧 Data Engineering      | 🌱 Building   |
-| ☁️ Big Data Technologies | 🔭 Exploring  |
+|     🌷 learning     |      🐰 status      |
+| :-----------------: | :-----------------: |
+|      🐍 Python      | 💗 getting stronger |
+|  📊 Data Analytics  |    🌸 practicing    |
+|      ⚡ PySpark      |     🧸 learning     |
+|      🐘 Hadoop      |     🌱 exploring    |
+| 🔧 Data Engineering |     🎀 building     |
+|     ☁️ Big Data     |    ✨ discovering    |
 
 </div>
 
 ---
 
-# 💻 What I Love Building
+# 🐰 things I like building
 
 <div align="center">
 
-🌸 ───────────────────────── 🌸
+🌸 **data analytics projects**
 
-### 📊 Data Analytics
-
-Turning **raw data → meaningful insights**
-
-### ⚡ Big Data
-
-Working with **large-scale datasets**
-
-### 🐍 Python
-
-Building **scripts, tools & data applications**
-
-### 🔧 Data Engineering
-
-Learning to build **reliable data pipelines**
-
-### 🚀 Real-World Projects
-
-Learning by **building instead of just watching tutorials**
-
-🌸 ───────────────────────── 🌸
-
-</div>
-
----
-
-# 🎯 My 2026 Quest
-
-```text
-🐍 Master Python
-       ↓
-📊 Become stronger in Data Analytics
-       ↓
-⚡ Master PySpark
-       ↓
-🐘 Explore Hadoop deeply
-       ↓
-🔧 Build Data Engineering projects
-       ↓
-🌐 Contribute to Open Source
-       ↓
-🚀 Become a Data Engineer
-```
-
----
-
-# 🐣 GitHub Playground
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=hellotechworkcontact-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hellotechworkcontact-ai&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+finding cute little patterns hiding inside messy data 📊
 
 <br>
 
-<div align="center">
+⚡ **big data projects**
 
-<img src="https://streak-stats.demolab.com/?user=hellotechworkcontact-ai&theme=tokyonight&hide_border=true"/>
+making friends with datasets that are way too big 🐘
+
+<br>
+
+🐍 **python projects**
+
+automating boring things so I can drink more coffee ☕♡
+
+<br>
+
+🔧 **data engineering projects**
+
+learning how data moves from **"oh no it's messy" → "yay it's useful!"**
+
+<br>
+
+🌐 **open source**
+
+learning from people smarter than me and hopefully giving something back 💌
 
 </div>
 
 ---
 
-# 🐍 Watch My Contributions Grow!
+# 🎀 my little learning journey
+
+<div align="center">
+
+```text
+             🌱
+             │
+             ▼
+        🐍 Python
+             │
+             ▼
+       📊 Data Analytics
+             │
+             ▼
+         🐘 Hadoop
+             │
+             ▼
+         ⚡ PySpark
+             │
+             ▼
+      🔧 Data Engineering
+             │
+             ▼
+       🚀 Data Engineer
+             │
+             ▼
+          ✨ yay!
+```
+
+</div>
+
+---
+
+# 🧁 2026 pookie goals
+
+* 🐍 become really comfortable with Python
+* ⚡ get super good at PySpark
+* 🐘 understand Hadoop properly
+* 📊 build more interesting analytics projects
+* 🔧 create real-world data pipelines
+* 🌐 make my first meaningful open-source contributions
+* 🚀 become job-ready for Data Engineering
+* 🌸 never stop learning
+
+---
+
+# 🐣 github garden
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=hellotechworkcontact-ai&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hellotechworkcontact-ai&layout=compact&theme=omni&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=hellotechworkcontact-ai&theme=omni&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 my little contribution garden
 
 <div align="center">
 
@@ -192,46 +214,58 @@ Learning by **building instead of just watching tutorials**
 
 ---
 
-# 🤝 Let's Create Something Cool!
+# 💌 let's be coding besties
 
 <div align="center">
 
-💜 **Python**
-⚡ **Big Data**
+🌷 **Python**
 📊 **Data Analytics**
 🐘 **Hadoop**
-🔥 **PySpark**
+⚡ **PySpark**
 🔧 **Data Engineering**
 🌐 **Open Source**
 
 <br>
 
-### 🌸 Got an interesting project?
+If you're working on something fun...
 
-**Let's build it together! 🚀**
+### 🎀 come build it with me! 🎀
+
+<br>
+
+<img src="https://img.shields.io/badge/✨_Let's_Build_Something_Cute_&_Useful_✨-f9a8d4?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💌 A Tiny Message From Me
+# 🐇 a tiny message before you go...
 
 <div align="center">
 
-> 🌱 *"I'm not trying to know everything.*
->
-> *I'm just trying to learn something new every day."* 💜
+### ♡
+
+> 🌸 *"Every big project starts with one tiny line of code."*
 
 <br>
 
-🐍 **Code**   •   📊 **Analyze**   •   ⚡ **Learn**   •   🚀 **Build**
+**🐍 code a little**
+**📊 learn a little**
+**☕ debug a lot**
+**🚀 build something cool**
 
-<br><br>
+<br>
 
-### ✨ Thanks for visiting my profile! ✨
+### 🎀 thanks for visiting my tiny github garden! 🎀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<br>
+
+🌷 🐰 🌸 🧸 🎀 🐣 🍓 🐍 💗 ✨
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=120&section=footer"/>
 
 </div>
 
-<!-- Made with 💜 by Yash -->
+<!-- made with ♡ by Yash -->
